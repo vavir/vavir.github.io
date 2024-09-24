@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vavir.github.io/GfV/sitemap.GfV.gz
